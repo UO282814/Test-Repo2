@@ -8,6 +8,8 @@ public class test {
 		System.out.println("I'm in Work-Branch rebase");
 		
 		System.out.println("Change 1");
+		
+		System.out.println("Change 2");
 	}
 
 }
